@@ -1,0 +1,48 @@
+body{
+    margin :1%;
+    width: 96%;
+}
+
+.boutton{
+    margin:2%;
+}
+
+.user{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#login{
+    align-self: flex-end;
+    margin-left:25vw;
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 4%;
+
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.lien{
+    color: blue;
+    text-decoration: underline;
+}
+
+.name{
+    color: brown; 
+}
+#btn{
+    align-self: flex-end;
+    margin-bottom: 4%;
+}
+
+button{
+    align-self: flex-end;
+
+}
+
