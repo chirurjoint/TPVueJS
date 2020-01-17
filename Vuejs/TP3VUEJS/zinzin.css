@@ -1,0 +1,16 @@
+.clickable{
+    color: red;
+}
+
+.zinzin{
+    color:blue;
+}
+
+.descending::after{
+    content:" \25B2";
+    color: white;
+}
+
+.ascending::after{
+    content:" \25BC"
+}

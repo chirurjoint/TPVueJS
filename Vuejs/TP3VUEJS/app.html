@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="zinzin.css">
+</head>
+<body>
+<h1>Utitlisation des filtres</h1>
+<div id="application">
+    <table class="table table-striped">
+        <thead class="thead-dark">
+        <tr>
+            <th>Model</th>
+            <th v-bind:class="order == 1 ? 'descending' : 'ascending'" v-on:click="inversion">Tarif</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr v-for="mobile in sortTable" v-show="mobile.price">
+            <td>{{mobile.model | uppercase}}</td>
+            <td>{{mobile.price | monnaie}}</td>
+        </tr>
+        </tbody>
+    </table>
+    <hr>
+    <br>
+    <h1>Utilisation des filtres et texteArea </h1>
+    <div style="display: flex; flex-grow: 1">
+        <div>
+            <table class="table table-striped">
+                <thead class="thead-dark">
+                <tr>
+                    <th>Nom</th>
+                    <th>Contenu</th>
+                    <th v-bind:class="order2 == 1 ? 'descending' : 'ascending'" v-on:click="inversion2">Date</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr v-for="message in sortTableDate">
+                    <td>{{message.nom}}</td>
+                    <td>{{message.content}}</td>
+                    <td>{{message.date}}</td>
+
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div style="padding:1%">
+            <select v-model="selected" >
+                <option v-for="destinataire in destinataires" >{{destinataire.nom}}</option>
+            </select>
+            <p v-bind:class=" size < 130 ? class_change : class_change2"> {{size}}/{{maxChar}}</p>
+            <textarea v-bind:class=" size < 130 ? class_change : class_change2" v-model="texteArea" :maxlength="maxChar"></textarea>
+            <div>
+                <button v-on:click="envoyer">Envoyer</button>
+                <button v-on:click="annuler">Annuler</button>
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/accounting.js/0.4.1/accounting.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
