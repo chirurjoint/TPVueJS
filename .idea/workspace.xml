@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120315a1-646e-4313-8338-a248f15863cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Vuejs/tp1/.gitinore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/app2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/speaker_bold_convert-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/tp4.A/bin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/tp4.A/less.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vuejs/TP4/tp4.A/plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,35 +23,53 @@
     <session id="351913065">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="5" />
-          <entry key="js" value="3" />
+          <entry key="URL" value="1" />
+          <entry key="bmp" value="1" />
+          <entry key="css" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="28" />
+          <entry key="js" value="29" />
+          <entry key="json" value="2" />
+          <entry key="png" value="5" />
+          <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
-          <entry key="JavaScript" value="3" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="28" />
+          <entry key="Image" value="6" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="29" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="40" />
-          <entry key="js" value="1369" />
+          <entry key="css" value="37" />
+          <entry key="gitignore" value="25" />
+          <entry key="html" value="1250" />
+          <entry key="js" value="4881" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="40" />
-          <entry key="JavaScript" value="1369" />
+          <entry key="CSS" value="40" />
+          <entry key="HTML" value="1362" />
+          <entry key="JavaScript" value="4766" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -51,72 +77,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/xhr-meteo-natif-JS.js">
+        <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2006">
-              <caret line="118" selection-start-line="118" selection-end-line="124" selection-end-column="29" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/promise2.js">
+        <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/bin.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/plus.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/xhr-github-natif-JS.js">
+        <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="116" column="22" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
+            <state relative-caret-position="357">
+              <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/vuegithub.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/promise.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/pomise2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/vue.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/less.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -124,8 +126,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -139,6 +142,14 @@
         <option value="$PROJECT_DIR$/Vuejs/tp1/xhr/pomise2.html" />
         <option value="$PROJECT_DIR$/Vuejs/tp1/xhr/promise2.js" />
         <option value="$PROJECT_DIR$/Vuejs/tp1/xhr/xhr-github-natif-JS.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/app.html" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/app.js" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/app2.js" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/app2.html" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.css" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.html" />
+        <option value="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.js" />
       </list>
     </option>
   </component>
@@ -148,11 +159,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Vuejs/tp2/node_modules/vue/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2.0" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1032" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="width" value="1084" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,22 +195,52 @@
               <item name="TPVueJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="TPVueJS" type="462c0819:PsiDirectoryNode" />
               <item name="Vuejs" type="462c0819:PsiDirectoryNode" />
-              <item name="tp1" type="462c0819:PsiDirectoryNode" />
+              <item name="tp2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TPVueJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TPVueJS" type="462c0819:PsiDirectoryNode" />
+              <item name="Vuejs" type="462c0819:PsiDirectoryNode" />
+              <item name="TP3VUEJS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TPVueJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TPVueJS" type="462c0819:PsiDirectoryNode" />
+              <item name="Vuejs" type="462c0819:PsiDirectoryNode" />
+              <item name="TP4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TPVueJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TPVueJS" type="462c0819:PsiDirectoryNode" />
+              <item name="Vuejs" type="462c0819:PsiDirectoryNode" />
+              <item name="TP4" type="462c0819:PsiDirectoryNode" />
+              <item name="tp4.A" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JeSuisUneAbeille" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\simon\Desktop\TPVueJS\Vuejs\TP4\tp4.A" />
+      <recent name="C:\Users\simon\Desktop\TPVueJS\Vuejs\TP4" />
+      <recent name="C:\Users\simon\Desktop\TPVueJS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\simon\Desktop\TPVueJS\Vuejs\TP4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,26 +254,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.vuegithub.html">
-    <configuration name="pomise2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TPVueJS/Vuejs/tp1/xhr/pomise2.html">
+  <component name="RunManager" selected="JavaScript Debug.app.html">
+    <configuration name="app2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TPVueJS/Vuejs/TP4/app2.html">
       <method v="2" />
     </configuration>
-    <configuration name="vue.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TPVueJS/Vuejs/tp1/xhr/vue.html">
+    <configuration name="app.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TPVueJS/Vuejs/TP4/tp4.A/app.html">
       <method v="2" />
     </configuration>
     <configuration name="vuegithub.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TPVueJS/Vuejs/tp1/xhr/vuegithub.html">
       <method v="2" />
     </configuration>
+    <configuration name="app2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app2.js" working-dir="$PROJECT_DIR$/Vuejs/TP4">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.js" working-dir="$PROJECT_DIR$/Vuejs/TP4">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.vue.html" />
-      <item itemvalue="JavaScript Debug.pomise2.html" />
       <item itemvalue="JavaScript Debug.vuegithub.html" />
+      <item itemvalue="JavaScript Debug.app.html" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.app2.js" />
+      <item itemvalue="JavaScript Debug.app2.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.app.html" />
+        <item itemvalue="JavaScript Debug.app2.html" />
+        <item itemvalue="Node.js.app2.js" />
+        <item itemvalue="Node.js.app.js" />
         <item itemvalue="JavaScript Debug.vuegithub.html" />
-        <item itemvalue="JavaScript Debug.pomise2.html" />
-        <item itemvalue="JavaScript Debug.vue.html" />
       </list>
     </recent_temporary>
   </component>
@@ -242,29 +299,32 @@
       <updated>1575617543201</updated>
       <workItem from="1575617544480" duration="6902000" />
       <workItem from="1576225905759" duration="49000" />
-      <workItem from="1579254285555" duration="364000" />
+      <workItem from="1579254285555" duration="678000" />
+      <workItem from="1579846863249" duration="13212000" />
+      <workItem from="1581056084988" duration="5653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7315000" />
+    <option name="totallyTimeSpent" value="26494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="825" extended-state="0" />
+    <frame x="-6" y="0" width="867" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.9140083" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22800496" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32214764" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3560831" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31240657" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31008902" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32907802" />
@@ -274,12 +334,46 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.63265306" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31206658" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32214764" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31008902" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.63265306" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Vuejs/TP4/app2.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/xhr-meteo-natif-JS.js">
@@ -299,10 +393,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/vuegithub.html">
+    <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/xhr-github-natif-JS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="2006">
+          <caret line="118" selection-start-line="118" selection-end-line="119" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -327,12 +431,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/xhr-github-natif-JS.js">
+    <entry file="file://$PROJECT_DIR$/Vuejs/tp1/xhr/vuegithub.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="116" column="22" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/sfc/parser.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/env.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/lang.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/perf.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/debug.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/next-tick.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/options.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/props.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/index.js" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/node_modules/vue/src/core/util/error.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/lazy.svg" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/coj2zfqo.bmp" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/🔇 Muted Speaker.URL" />
+    <entry file="file://$PROJECT_DIR$/Vuejs/tp2/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/speaker_bold_convert-512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP3VUEJS/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP3VUEJS/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="99" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/app2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/bin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/plus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/less.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vuejs/TP4/tp4.A/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
